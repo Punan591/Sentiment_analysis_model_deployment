@@ -1,0 +1,3 @@
+# Sentiment_analysis_model_deployment
+Sentiment_analysis_model_deployment_description:
+In this project I have developed a neural network using of RNN network architecture through which I can detect wheather the given review is positive or negative.I have deploy an sentiment analysis web app that will take user review in review box and then submit and then the user can know wheather his review is positive and negative.I have deploy this web app using amagon sagemaker,aws lambda that will authenticate any application to send data to my amazon sagemaker developed model,api gateway can be act as an url,amazon storage service S3 which will store my data etc.  
